@@ -1,0 +1,18 @@
+*{
+    background: rgb(31, 4, 80);
+}
+
+.img-foto{
+    height: 60%;
+    width: 60%;
+    
+}
+.alineacion-card{
+    height: 525px;
+    
+}
+
+.fondo-card{
+    color: white;
+}
+
